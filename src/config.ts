@@ -8,7 +8,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "黄庄以北",
-	subtitle: "数字边界",
+	subtitle: "代码如星砌逻辑基石，哲思似光织认知穹顶",
 	lang: "en", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -52,9 +52,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://avatars.githubusercontent.com/u/93772967?v=4", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://img.joeyzheng.tech/ob-1748610762885.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "𝕁𝕠𝕖𝕪 ℤ𝕙𝕖𝕟𝕘",
-	bio: "I’m interested in anything opensources. Give me GNU or give me death!",
+	bio: "Coding like stars builds the logical foundation; philosophical thoughts as light weave the cognitive dome.",
 	links: [
 		// {
 		// 	name: "Twitter",
